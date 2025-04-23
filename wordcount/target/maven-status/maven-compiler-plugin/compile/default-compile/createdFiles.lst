@@ -1,0 +1,4 @@
+tn\insat\tp1\TokenizerMapper.class
+hadoop\mapreduce\App.class
+tn\insat\tp1\IntSumReducer.class
+tn\insat\tp1\WordCount.class
